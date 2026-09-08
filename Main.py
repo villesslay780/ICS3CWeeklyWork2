@@ -7,5 +7,8 @@
 # Project Description
 #############################################
 
-# THIS IS WHERE YOU CODEprint("whats up my world")
+print("whats up my world")
 print("Amazing to see you")
+print("are you guys playing the new game")
+print
+print("yes!")
